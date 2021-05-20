@@ -1,7 +1,7 @@
 import React,{useState} from 'react'
 import Data from './Data'
 import Todolist from './Todolist'
-import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
+// import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
 import Keep from './Keep'
 import Errore from './Error'
 import {Route,Switch} from 'react-router-dom'
