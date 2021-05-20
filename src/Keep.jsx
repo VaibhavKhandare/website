@@ -26,6 +26,7 @@ const Keep= () => {
 			justifyContent: 'center',
 			alignItems: 'center',
 			textAlign: 'center',
+			margin:'20px'
 		}}>
 		<div className="center_div2">
 		<CreateNote passNote={addNote}/>
