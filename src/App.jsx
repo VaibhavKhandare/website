@@ -22,6 +22,7 @@ const App= () => {
 		<div style={{backgroundColor: bg}}>
 		<Switch >
 			<Route exact path='/' component={Data}/>
+			<Route exact path='/website' component={Data}/>
 			<Route exact path='/todolist' component={Todolist}/>
 			<Route exact path='/keep' component={Keep}/>
 			<Route exact path='/contact' component={Contact}/>
