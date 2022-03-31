@@ -134,6 +134,19 @@ About the Database
 <p>
 About the Frontend
 </p>
+<h3>Login Page</h3>
+<img src="https://user-images.githubusercontent.com/56597655/161120390-0bd58bcc-6e2b-4538-860a-3a20bc95ff29.png" alt="Logo"></img>
+<h3>Admin Panel</h3>
+<img src="https://user-images.githubusercontent.com/56597655/161122465-a406608c-6114-4117-b36d-dffa253fd9fe.png" alt="Logo"></img>
+<h3>Add Person Popup</h3>
+<img src="https://user-images.githubusercontent.com/56597655/161122815-2d46ed8c-f4c0-456d-a995-b6851ccdb9ee.png" alt="Logo"></img>
+<h3>Admin Panel</h3>
+<img src="https://user-images.githubusercontent.com/56597655/161123099-0837e522-41fe-4386-8ae2-c16abbc76014.png" alt="Logo"></img>
+<h3>Match Info Popup</h3>
+<img src="https://user-images.githubusercontent.com/56597655/161123255-82510c55-f9bb-4c1f-9fbf-274e04e1ef50.png" alt="Logo"></img>
+<h3>Player Match Info Popup</h3>
+<img src="https://user-images.githubusercontent.com/56597655/161123351-fe21de6f-6974-4923-ae03-d98030f7e248.png" alt="Logo"></img>
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
