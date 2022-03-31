@@ -6,14 +6,14 @@
   </a>
 
   <h3 align="center">CS 432 Assignment-6</h3>
-  <ul style="list-style: none;">
-    <li>Aman 18110014</li>
-    <li>Bhanu Pratap Singh 18110034</li>
-    <li>Lovepreet Singh 18110094</li>
-    <li>Mrityunjay Saraf 18110103</li>
-    <li>Sumit Kumar 18110167</li>
-    <li>Vaibhav Khandare 18110180</li>
-  </ul>
+<div style="list-style: none;">
+    <div>Aman 18110014</div>
+    <div>Bhanu Pratap Singh 18110034</div>
+    <div>Lovepreet Singh 18110094</div>
+    <div>Mrityunjay Saraf 18110103</div>
+    <div>Sumit Kumar 18110167</div>
+    <div>Vaibhav Khandare 18110180</div>
+  </div>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
