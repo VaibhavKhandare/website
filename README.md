@@ -7,7 +7,8 @@
 
   <h3 align="center">CS 432 Assignment-6</h3>
   <ul>
-    <li>Aman 181100014</li>
+    <li>Aman 18110014</li>
+    <li>Vaibhav Khandare18110180</li>
     
     <li>Vaibhav Khandare 18110180</li>
   </ul>
