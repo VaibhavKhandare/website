@@ -14,9 +14,8 @@
     <div>Sumit Kumar 18110167</div>
     <div>Vaibhav Khandare 18110180</div>
   </div>
-
+  <br/>
   <p align="center">
-    An awesome README template to jumpstart your projects!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
