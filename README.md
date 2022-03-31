@@ -104,7 +104,6 @@ This website can be used to see the statistics of any Indian Cricket player. Als
 <p>
 About the Database
 </p>
-<h3>Person Table</h3>
 
 <h3>Person Table</h3>
 <img src="https://user-images.githubusercontent.com/56597655/161115113-ac1c2f67-b1f8-4a37-8a6f-787fcf75873d.jpg" alt="Logo"></img>
