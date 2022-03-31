@@ -17,11 +17,12 @@
   <br/>
   <p align="center">
     <br />
+        <a href="#Database">Database</a>
+    ·
+
     <a href="#Frontend">Frontend</a>
     ·
     <a href="#Backend">Backend</a>
-    ·
-    <a href="#Database">Database</a>
   </p>
 </div>
 
@@ -60,14 +61,6 @@
 
 Our Database is created for the enthusiastic cricket lovers who can be cricket fans, cricket match analyst, cricket players and commentators. The database has functions which gives power to the Cricket Data Analyst or user to get all the information of specific player, specific match played in a specific stadium and Player stats according to the cricket format (ODI, Test and T20). The Database is specialized only for the Indian Cricket Team Personals and their Information.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
