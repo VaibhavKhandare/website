@@ -60,7 +60,7 @@
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Our Database is created for the enthusiastic cricket lovers who can be cricket fans, cricket match analyst, cricket players and commentators. The database has functions which gives power to the Cricket Data Analyst or user to get all the information of specific player, specific match played in a specific stadium and Player stats according to the cricket format (ODI, Test and T20). The Database is specialized only for the Indian Cricket Team Personals and their Information.
-
+For the players a relationship connecting players with their stats regarding the matches that person played along with information about the match stadium is mentioned. The Stats tables consist of runs scored, strike rate, ball faced ,4s,6s,extras, wickets, runs conceded, maiden, overthrown ,catches taken and format associated with a specific match i.e. a player_match_info table consisting of each player record of each match. Then the total stats of each format of the player were calculated using count, sum and avg query.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
