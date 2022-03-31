@@ -104,6 +104,20 @@ This website can be used to see the statistics of any Indian Cricket player. Als
 <p>
 About the Database
 </p>
+<h3>Person Table</h3>
+![3710010e-695a-47fb-b9b6-20ce63587f37](https://user-images.githubusercontent.com/56597655/161115113-ac1c2f67-b1f8-4a37-8a6f-787fcf75873d.jpg)
+<h3>Person Info</h3>
+![53725c41-a9ee-4180-af0a-9c7ed3bd19a9](https://user-images.githubusercontent.com/56597655/161115178-9dcc5841-8c25-4df6-944d-bfa8499d34d1.jpg)
+<h3>Coach Table</h3>
+![ed573b55-eedc-41f4-8239-4007a31cb2cb](https://user-images.githubusercontent.com/56597655/161115193-984acaef-f23c-495c-ac02-c60015cd0f75.jpg)
+<h3>Match Info Table</h3>
+![0aea6333-86ca-4a43-8a08-814212094106](https://user-images.githubusercontent.com/56597655/161115203-185aebe7-c4ec-4253-a6ee-9c79ccf0f254.jpg)
+<h3>Player Match Info Table</h3>
+![57648d2b-13d1-42de-a1eb-aa86917d9b16](https://user-images.githubusercontent.com/56597655/161115527-cbc9b225-ab79-42f1-a0fb-7feb53016712.jpg)
+<h3>Venue Info Table</h3>
+![62e80e2f-32e3-474a-b882-198f516f6c67](https://user-images.githubusercontent.com/56597655/161115584-c04613fe-55e6-44d2-9a0d-3553957e80f0.jpg)
+
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- FRONTEND -->
