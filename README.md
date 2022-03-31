@@ -56,7 +56,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 <p>
 Our Database is created for the enthusiastic cricket lovers who can be cricket fans, cricket match analyst, cricket players and commentators. The database has functions which gives power to the Cricket Data Analyst or user to get all the information of specific player, specific match played in a specific stadium and Player stats according to the cricket format (ODI, Test and T20). The Database is specialized only for the Indian Cricket Team Personals and their Information.
 </p><p>
@@ -68,7 +67,7 @@ For the players a relationship connecting players with their stats regarding the
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+The Project uses the below Tech Stack
 
 * [React.js](https://reactjs.org/)
 * [React Bootstrap](https://react-bootstrap.github.io/)
@@ -83,38 +82,15 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Clone The Above Repo in your Local System for frontend. 
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+Run the Following command in the terminal given that node is installed in the system
 * npm
   ```sh
-  npm install npm@latest -g
+  npm install 
   ```
-
-### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
