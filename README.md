@@ -20,6 +20,8 @@
     <a href="#Frontend">Frontend</a>
     ·
     <a href="#Backend">Backend</a>
+    ·
+    <a href="#Database">Database</a>
   </p>
 </div>
 
@@ -43,9 +45,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -58,7 +58,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Our Database is created for the enthusiastic cricket lovers who can be cricket fans, cricket match analyst, cricket players and commentators. The database has functions which gives power to the Cricket Data Analyst or user to get all the information of specific player, specific match played in a specific stadium and Player stats according to the cricket format (ODI, Test and T20). The Database is specialized only for the Indian Cricket Team Personals and their Information.
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
