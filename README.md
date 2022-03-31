@@ -98,6 +98,31 @@ This website can be used to see the statistics of any Indian Cricket player. Als
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<!-- DATABASE -->
+## Database
+
+<p>
+About the Database
+</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- FRONTEND -->
+## Frontend
+
+<p>
+About the Frontend
+</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+<!-- Backend -->
+## Backend
+
+<p>
+About the Backend
+</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 
 
