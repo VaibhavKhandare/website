@@ -106,12 +106,23 @@ About the Database
 </p>
 <h3>Person Table</h3>
 
+<h3>Person Table</h3>
 <img src="https://user-images.githubusercontent.com/56597655/161115113-ac1c2f67-b1f8-4a37-8a6f-787fcf75873d.jpg" alt="Logo"></img>
+<h3>Player Info Table</h3>
 <img src="https://user-images.githubusercontent.com/56597655/161115178-9dcc5841-8c25-4df6-944d-bfa8499d34d1.jpg" alt="Logo"></img>
+<h3>Coach Table</h3>
 <img src="https://user-images.githubusercontent.com/56597655/161115193-984acaef-f23c-495c-ac02-c60015cd0f75.jpg" alt="Logo"></img>
+<h3>Match Info Table</h3>
+
 <img src="https://user-images.githubusercontent.com/56597655/161115203-185aebe7-c4ec-4253-a6ee-9c79ccf0f254.jpg" alt="Logo"></img>
+<h3>Player Match Info Table</h3>
+
 <img src="https://user-images.githubusercontent.com/56597655/161115527-cbc9b225-ab79-42f1-a0fb-7feb53016712.jpg" alt="Logo"></img>
+<h3>Venue Info Table</h3>
+
 <img src="https://user-images.githubusercontent.com/56597655/161115584-c04613fe-55e6-44d2-9a0d-3553957e80f0.jpg" alt="Logo"></img>
+
+
 
 
 
