@@ -101,9 +101,9 @@ This website can be used to see the statistics of any Indian Cricket player. Als
 <!-- DATABASE -->
 ## Database
 
-<p>
-About the Database
-</p>
+<h1>
+Snapshot of Database
+</h1>
 
 <h3>Person Table</h3>
 <img src="https://user-images.githubusercontent.com/56597655/161115113-ac1c2f67-b1f8-4a37-8a6f-787fcf75873d.jpg" alt="Logo"></img>
@@ -131,7 +131,9 @@ About the Database
 ## Frontend
 
 <p>
-About the Frontend
+<h1>
+Snapshot of Frontend
+</h1>
 </p>
 <h3>Login Page</h3>
 <img src="https://user-images.githubusercontent.com/56597655/161120390-0bd58bcc-6e2b-4538-860a-3a20bc95ff29.png" alt="Logo"></img>
@@ -153,7 +155,9 @@ About the Frontend
 ## Backend
 
 <p>
-About the Backend
+<h1>
+Snapshot of Backend
+</h1>
 </p>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
