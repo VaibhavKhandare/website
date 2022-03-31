@@ -17,9 +17,8 @@
   <br/>
   <p align="center">
     <br />
-        <a href="#Database">Database</a>
+    <a href="#Database">Database</a>
     ·
-
     <a href="#Frontend">Frontend</a>
     ·
     <a href="#Backend">Backend</a>
