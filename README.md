@@ -6,7 +6,7 @@
   </a>
 
   <h3 align="center">CS 432 Assignment-6</h3>
-  <ul align="right">
+  <ul align="center">
     <li>Aman 18110014</li>
     <li>Bhanu Pratap Singh 18110034</li>
     <li>Lovepreet Singh 18110094</li>
